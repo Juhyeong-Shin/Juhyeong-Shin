@@ -1,4 +1,6 @@
-### Hi there 👋
+👽눈뜨고 아침 6시에 일어나 할머니 밥 차려드려👽
+👽 잔디심어 깨밭가서 깨털어 비오면 고추 걷어 👽
+👽     해떨어지면 잔디 또 심어 자빠져 자    👽
 
 <!--
 **Juhyeong-Shin/Juhyeong-Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
