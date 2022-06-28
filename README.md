@@ -1,18 +1,9 @@
-👽눈뜨고 아침 6시에 일어나 할머니 밥 차려드려👽
-👽 잔디심어 깨밭가서 깨털어 비오면 고추 걷어 👽
-👽     해떨어지면 잔디 또 심어 자빠져 자    👽
+<h3 align="center"><b>👽눈뜨고 아침 6시에 일어나 할머니 밥 차려드려👽 </b></h3>
+<h3 align="center"><b>👽 잔디심어 깨밭가서 깨털어 비오면 고추 걷어 👽 </b></h3>
+<h3 align="center"><b>👽     해떨어지면 잔디 또 심어 자빠져 자    👽 </b></h3>
 
-<!--
-**Juhyeong-Shin/Juhyeong-Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"><b>🔫 Hits 🔫 </b></h3>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouhyeoneee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40youhyeoneee&count_bg=%2320C997&title_bg=%2320C997&icon=blogger.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=false"/></a>
+</p>
