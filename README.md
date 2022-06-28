@@ -3,7 +3,7 @@
 <h3 align="center"><b>👽 잔디심어 깨밭가서 깨털어 비오면 고추 걷어 👽 </b></h3>
 <h3 align="center"><b>👽     해떨어지면 잔디 또 심어 자빠져 자    👽 </b></h3>
 
-file:///C:/Users/Model/Desktop/tumblr_37420fb9839a6b3b17fd9311f3742f90_b4c282b9_400.gif
+![tumblr_37420fb9839a6b3b17fd9311f3742f90_b4c282b9_400](https://user-images.githubusercontent.com/107597057/176128192-a8f3e026-5653-41d3-94c2-e2494c4abd40.gif)
 
 <h3 align="center"><b>🔫 Hits 🔫 </b></h3>
 <p align="center">
